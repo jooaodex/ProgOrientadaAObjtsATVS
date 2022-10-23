@@ -48,6 +48,7 @@ namespace Atividades
             mediaSalario = (a.Salario + b.Salario) / 2;
 
             Console.WriteLine("Salário médio: " + mediaSalario.ToString("F2", CultureInfo.InvariantCulture));
+            
         }
 
     }
