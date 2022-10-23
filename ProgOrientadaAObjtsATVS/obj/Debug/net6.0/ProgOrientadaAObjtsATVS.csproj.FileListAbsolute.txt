@@ -1,0 +1,15 @@
+C:\Users\joaol\source\repos\ProgOrientadaAObjtsATVS\ProgOrientadaAObjtsATVS\bin\Debug\net6.0\ProgOrientadaAObjtsATVS.exe
+C:\Users\joaol\source\repos\ProgOrientadaAObjtsATVS\ProgOrientadaAObjtsATVS\bin\Debug\net6.0\ProgOrientadaAObjtsATVS.deps.json
+C:\Users\joaol\source\repos\ProgOrientadaAObjtsATVS\ProgOrientadaAObjtsATVS\bin\Debug\net6.0\ProgOrientadaAObjtsATVS.runtimeconfig.json
+C:\Users\joaol\source\repos\ProgOrientadaAObjtsATVS\ProgOrientadaAObjtsATVS\bin\Debug\net6.0\ProgOrientadaAObjtsATVS.dll
+C:\Users\joaol\source\repos\ProgOrientadaAObjtsATVS\ProgOrientadaAObjtsATVS\bin\Debug\net6.0\ProgOrientadaAObjtsATVS.pdb
+C:\Users\joaol\source\repos\ProgOrientadaAObjtsATVS\ProgOrientadaAObjtsATVS\obj\Debug\net6.0\ProgOrientadaAObjtsATVS.csproj.AssemblyReference.cache
+C:\Users\joaol\source\repos\ProgOrientadaAObjtsATVS\ProgOrientadaAObjtsATVS\obj\Debug\net6.0\ProgOrientadaAObjtsATVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaol\source\repos\ProgOrientadaAObjtsATVS\ProgOrientadaAObjtsATVS\obj\Debug\net6.0\ProgOrientadaAObjtsATVS.AssemblyInfoInputs.cache
+C:\Users\joaol\source\repos\ProgOrientadaAObjtsATVS\ProgOrientadaAObjtsATVS\obj\Debug\net6.0\ProgOrientadaAObjtsATVS.AssemblyInfo.cs
+C:\Users\joaol\source\repos\ProgOrientadaAObjtsATVS\ProgOrientadaAObjtsATVS\obj\Debug\net6.0\ProgOrientadaAObjtsATVS.csproj.CoreCompileInputs.cache
+C:\Users\joaol\source\repos\ProgOrientadaAObjtsATVS\ProgOrientadaAObjtsATVS\obj\Debug\net6.0\ProgOrientadaAObjtsATVS.dll
+C:\Users\joaol\source\repos\ProgOrientadaAObjtsATVS\ProgOrientadaAObjtsATVS\obj\Debug\net6.0\refint\ProgOrientadaAObjtsATVS.dll
+C:\Users\joaol\source\repos\ProgOrientadaAObjtsATVS\ProgOrientadaAObjtsATVS\obj\Debug\net6.0\ProgOrientadaAObjtsATVS.pdb
+C:\Users\joaol\source\repos\ProgOrientadaAObjtsATVS\ProgOrientadaAObjtsATVS\obj\Debug\net6.0\ProgOrientadaAObjtsATVS.genruntimeconfig.cache
+C:\Users\joaol\source\repos\ProgOrientadaAObjtsATVS\ProgOrientadaAObjtsATVS\obj\Debug\net6.0\ref\ProgOrientadaAObjtsATVS.dll
